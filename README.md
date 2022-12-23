@@ -5,5 +5,5 @@
 # Requirment
 - install composer
 - install xampp (atau web server lokal lainnya)
-- install text editor (notepad++, geany, dll)
+- install text editor (visual studio code, notepad++, dll)
 - download bootstrap (untuk mempercantik tampilan web), melalui link: https://getbootstrap.com/
