@@ -6,7 +6,7 @@
 - Sample dataset csv
 - Algoritme-algoritme dalam data mining/machine learning
 
-### Requirment:
+### Requirement:
 - install composer
 - install xampp (atau web server lokal lainnya)
 - install text editor (visual studio code, notepad++, dll)
