@@ -1,5 +1,5 @@
 # Data Mining untuk Membangun Aplikasi Cerdas Berbasis Pengetahuan
-## SKPI Teknik Informatika
+## SKPI Teknik Informatika Universitas Semarang
 
 
 ### Source Code berisi:
