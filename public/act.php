@@ -41,7 +41,7 @@
     }
 
     if ($usia == "" or $pendapatan == "" or $pelajar == "" or $kredit == "") {
-        echo "<div class='container mt-3'>
+        echo "<div class='container mt-3 text-center'>
         <p mb-2>Harap isi value pada atribut dengan lengkap</p>
         <a href='index.php' class='btn btn-primary'>Kembali ke Index</a>
         </div>";
@@ -77,7 +77,7 @@
                 </tr>
             </tbody>
         </table>
-        <a href='index.php' class='btn btn-primary'>Kembali ke Index</a>
+        <p text-center><a href='index.php' class='btn btn-primary'>Kembali ke Index</a></p>
     </div>";
     }
     ?>
