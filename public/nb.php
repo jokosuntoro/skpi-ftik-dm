@@ -18,7 +18,7 @@
         <h4 class="text-primary text-center mt-5">
             Sistem Cerdas Prediksi Pembelian Komputer
         </h4>
-        <form action="act.php" method="POST" class="form-horizontal">
+        <form action="act-nb.php" method="POST" class="form-horizontal">
             <fieldset>
                 <div class="form-row mt-3">
                     <div class="form-group col-md-12">

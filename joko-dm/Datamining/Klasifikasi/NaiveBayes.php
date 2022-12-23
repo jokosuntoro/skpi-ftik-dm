@@ -136,8 +136,10 @@ class NaiveBayes implements Classifier
     {
         $value = $sample[$feature];
         if ($this->dataType[$label][$feature] == self::NOMINAL) {
-            if (!isset($this->discreteProb[$label][$feature][$value]) ||
-                $this->discreteProb[$label][$feature][$value] == 0) {
+            if (
+                !isset($this->discreteProb[$label][$feature][$value]) ||
+                $this->discreteProb[$label][$feature][$value] == 0
+            ) {
                 return self::EPSILON;
             }
 
